@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    }
+    
+    .img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+        
+    }
+    .center{
+        border: 5px solid rgba(54, 219, 21, 0.986);
+        border-radius: 10px;
+        width: 18%;
+        margin:initial;
+        padding: 10px;
+        position: absolute;
+        background-color:green
+        
+    }
+    
+    h1{
+        color:yellow;
+        border: 2px solid yellow;
+        background-color: purple;
+        width: 18%;
+        text-align: center;
+        font-family: lucida console;
+        padding: 5px;
+    }
+
+    li{
+        color: yellow;
+        font-family: lucida console;
+        text-align: center;
+        font-size: 30px;
+        padding: 10px;
+        
+    }
+   
+    h2{
+        color:yellow;
+        text-align: center;
+        font-family: lucida console;
+      
+    }
+
+    div {
+        text-align: center;
+    }

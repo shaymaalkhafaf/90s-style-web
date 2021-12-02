@@ -1,0 +1,70 @@
+body {
+    background-image: url(fgif.gif);
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    }
+    
+    .img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+        
+    }
+
+    .center{
+        border: 2px solid rgba(54, 219, 21, 0.986);
+        border-radius: 10px;
+        width: 15%;
+        margin:initial;
+        padding: 5px;
+        position: absolute;
+        background-color:green
+        
+    }
+
+li{
+        font-size: 15px;
+        font-weight: bolder;
+        color: white;
+        font-family: lucida console;
+        
+    }
+
+
+    img {
+        margin-left: auto;
+        margin-right: auto;
+        
+        display: block;
+        width: 40%;
+    }
+
+
+.text {
+background-color: green;
+border-radius: 10px;
+border: 2px solid rgb(38, 226, 20);
+width: 45%;
+margin: auto;
+padding: 5px;
+
+}
+
+    p{
+        color:white;
+        font-size: 20px;
+        text-align: center;
+        font-family: lucida console;
+
+    }
+
+    footer{
+        color: white;
+        text-align: center;
+    }
+
+   

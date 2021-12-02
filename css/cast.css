@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    }
+    
+    .img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+        
+    }
+    .center{
+        border: 5px solid rgba(54, 219, 21, 0.986);
+        border-radius: 10px;
+        width: 18%;
+        margin:initial;
+        padding: 10px;
+        position: absolute;
+        background-color:green
+        
+    }
+    div.gallery {
+        margin: 10px;
+         border: 1px solid #ccc;
+         float: left;
+         width: 230px;
+       }
+       
+       div.gallery img {
+         width: 230px;
+         height: 200px;
+       }
+
+       ul.a{
+           color: yellow;
+           font-family: lucida console;
+           position:relative;
+           border:5px solid yellow;
+           width: 15%;
+           float: left;
+           padding: 20px;
+           background-color: purple;
+           
+
+       }
